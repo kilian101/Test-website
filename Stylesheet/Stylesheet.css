@@ -1,0 +1,50 @@
+/* Styles for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  /* Styles for headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", serif;
+    color: #006699;
+  }
+  
+  /* Styles for links */
+  a {
+    color: #006699;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Styles for navigation menu */
+  nav {
+    background-color: rgb(184, 18, 18);
+  }
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  nav li {
+    display: inline-block;
+  }
+  nav a {
+    display: block;
+    padding: 10px;
+    color: #fff;
+  }
+  nav a:hover {
+    background-color: #006699;
+  }
+  
+  /* Styles for main content */
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
