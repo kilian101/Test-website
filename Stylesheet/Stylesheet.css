@@ -6,9 +6,13 @@ body {
   }
   
   /* Styles for headings */
-  h1, h2, h3, h4, h5, h6 {
+  h1 {
     font-family: "Times New Roman", serif;
     color: #006699;
+  }
+  h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(169, 58, 58)
   }
   
   /* Styles for links */
